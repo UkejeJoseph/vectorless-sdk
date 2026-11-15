@@ -1,3 +1,5 @@
+> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
+
 <p align="center">
   <img src="https://img.shields.io/badge/vectorless-SDK-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik00IDRoMTZ2MTZINHoiLz48cGF0aCBkPSJNOCA4aDh2OEg4eiIvPjxwYXRoIGQ9Ik0xMiA0djE2Ii8+PHBhdGggZD0iTTQgMTJoMTYiLz48L3N2Zz4=" alt="Vectorless SDK" />
 </p>
